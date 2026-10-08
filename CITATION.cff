@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+message: "If you use ATQA, please cite the following paper."
+title: "ATQA: A Multimodal Arabic Benchmark for Textbook Question Answering"
+type: article
+year: 2026
+journal: "Transactions of the Association for Computational Linguistics"
+notes: "To appear."
+authors:
+  - family-names: Alawwad
+    given-names: Hessa
+    orcid: "https://orcid.org/0009-0001-0269-374X"
+    email: haalawwad@imamu.edu.sa
+    affiliation: "Imam Mohammad Ibn Saud Islamic University"
+  - family-names: Alharbi
+    given-names: Norah
+    affiliation: "Triple A Technology"
+  - family-names: Alramadhan
+    given-names: Sukainah
+    affiliation: "Triple A Technology"
+  - family-names: Daftardar
+    given-names: Nawal
+    affiliation: "Triple A Technology"
+  - family-names: Alshaiban
+    given-names: Elia
+    affiliation: "Triple A Technology"
+  - family-names: Alrizq
+    given-names: Aroub
+    affiliation: "Triple A Technology"
+  - family-names: Alkhaldi
+    given-names: Maali
+    affiliation: "Triple A Technology"
+  - family-names: Alashrafi
+    given-names: Qamar
+    affiliation: "Triple A Technology"
+  - family-names: Alsubaie
+    given-names: Haya
+    affiliation: "Triple A Technology"
+  - family-names: Alotaibi
+    given-names: Nouf
+    affiliation: "Triple A Technology"
+  - family-names: Alawwad
+    given-names: Lama
+    affiliation: "Triple A Technology"
+  - family-names: Alsharif
+    given-names: Nova
+    affiliation: "Triple A Technology"
+  - family-names: Alawwad
+    given-names: Noura
+    affiliation: "Triple A Technology"
+  - family-names: Alawwad
+    given-names: Eman
+    affiliation: "Triple A Technology"
+  - family-names: Almalki
+    given-names: Mohammed
+    affiliation: "Triple A Technology"
+  - family-names: Alawwad
+    given-names: Aroup
+    affiliation: "Triple A Technology"
+  - family-names: Alsoli
+    given-names: Basmah
+    affiliation: "Imam Mohammad Ibn Saud Islamic University"
+  - family-names: Jamal
+    given-names: Amani
+    affiliation: "King Abdulaziz University"
+  - family-names: Alawwad
+    given-names: Lujain
+    affiliation: "Saudi Electronic University"

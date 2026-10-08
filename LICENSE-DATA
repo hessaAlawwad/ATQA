@@ -1,0 +1,31 @@
+ATQA Dataset License
+=====================
+
+The ATQA benchmark contains two kinds of content with different terms.
+
+1. Author-created content
+-------------------------
+The multiple-choice questions, distractors, answer keys, and all annotations
+(cognitive levels, vocabulary, topic decompositions, lesson summaries,
+paraphrases, and figure captions) are the original contribution of the ATQA
+authors and are released under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to share and adapt this content for non-commercial purposes,
+provided you give appropriate credit.
+
+Full text: https://creativecommons.org/licenses/by-nc/4.0/
+
+2. Source-derived content
+-------------------------
+The lesson texts and figures are drawn from the official Saudi national
+curriculum textbooks. They are redistributed with written authorization from
+the National Curriculum Center (Saudi Arabia) under the following terms:
+  - non-commercial research use only;
+  - with attribution to the National Curriculum Center;
+  - without altering the content or its context.
+
+Use of this content outside these terms requires permission from the
+National Curriculum Center.
+
+By using the ATQA benchmark you agree to both sets of terms above.
