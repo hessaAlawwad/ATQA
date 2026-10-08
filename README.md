@@ -47,8 +47,7 @@ ATQA/
 │   ├── atqa_analysis.py       Full pipeline: statistics, LaTeX tables, and all figures
 │   ├── recompute_stats.py     Recompute Section-3 statistics from the splits
 │   └── compute_bloom.py       Bloom's-taxonomy distribution (lesson- and question-level)
-├── figures/                   Paper figures (PDF + PNG) and figures.zip
-├── tables/                    Paper tables (LaTeX)
+├── ATQA_images /              The images used in the ATQA dataset
 └── data/
     └── README.md              Data access and format
 ```
@@ -60,6 +59,17 @@ Requires Python 3.9+.
 ```bash
 pip install -r requirements.txt
 ```
+
+## Images
+
+The images used in the ATQA dataset are hosted separately due to their large size.
+
+To download and extract the images, run:
+
+```bash
+python download_images.py
+```
+
 
 ## Usage
 
